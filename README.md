@@ -1,6 +1,9 @@
 ### WSGGGG
 I do stuff
-  Nun cool yet but eta s0n i promise
+- Nun cool yet but eta s0n i promise
+- I know python and am learning swift and shi
+- I like playing with iOS and jailbreaking my phones!
+- Add me on discord or sum @ktrrbypass
 
 <!--
 **MildPepperCat/MildPepperCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
