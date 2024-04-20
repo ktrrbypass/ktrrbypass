@@ -1,5 +1,6 @@
-### Hi there 👋
+### WSGGGG
 I do stuff
+  Nun cool yet but eta s0n i promise
 
 <!--
 **MildPepperCat/MildPepperCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
