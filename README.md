@@ -8,7 +8,7 @@ I do stuff
 
 ### Now Playing — Spotify 🎧
 <p>
-<a href=”">
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=ha4h44bi2lg3qsqacbfm540rm&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ha4h44bi2lg3qsqacbfm540rm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
 </p>
